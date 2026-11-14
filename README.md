@@ -66,8 +66,6 @@ Kotlin + Jetpack Compose · minSdk 26
 
 ## اعتبار
 
-در یادداشت‌های انتشار، الهام از کارهای متن‌باز [@sinavm](https://github.com/sinavm) ذکر می‌شود.
-
 ---
 
 **مالک:** [@021ZERO](https://github.com/021ZERO) · **بات:** `@Gamegozar_app`
